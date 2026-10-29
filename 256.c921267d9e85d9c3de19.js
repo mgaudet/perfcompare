@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkperfcompare=self.webpackChunkperfcompare||[]).push([[256],{6256(e){e.exports="data:font/woff2;base64,bW9kdWxlLmV4cG9ydHMgPSAnLi4vLi4vLi4vcHVibGljL2ZvbnRzL01ldHJvcG9saXMtQm9sZC53b2ZmMic7"}}]);
